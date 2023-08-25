@@ -87,7 +87,7 @@ public class Filme {
     }
 
     //Todo: Método Poltronas Disponíveis
-    public Sint getPoltronasDisponiveis() {
+    public int getPoltronasDisponiveis() {
         return poltronasDisponiveis;
     }
     //Todo: Método Subtrair Poltronas
