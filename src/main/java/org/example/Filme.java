@@ -8,7 +8,7 @@ public class Filme {
     private int tempo;
     private double valor;
     private String tecnologia;
-    private String poltronasDisponiveis;
+    private int poltronasDisponiveis;
 
     //Todo: Construtor
 
@@ -51,7 +51,7 @@ public class Filme {
         this.tecnologia = tecnologia;
     }
 
-    public void setPoltronasDisponiveis(String poltronasDisponiveis) {
+    public void setPoltronasDisponiveis(int poltronasDisponiveis) {
         this.poltronasDisponiveis = poltronasDisponiveis;
     }
 
@@ -87,7 +87,7 @@ public class Filme {
     }
 
     //Todo: Método Poltronas Disponíveis
-    public String getPoltronasDisponiveis() {
+    public Sint getPoltronasDisponiveis() {
         return poltronasDisponiveis;
     }
     //Todo: Método Subtrair Poltronas
