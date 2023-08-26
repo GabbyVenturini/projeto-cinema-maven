@@ -16,12 +16,12 @@ public class Filme implements SubtrairPoltrona {
 
     public Filme(int novoId, String titulo, String genero, int idadeMinima, int tempo, double valor, String tecnologia, int poltronasDisponiveis) {
         this.id = id;
-        this.titulo = this.titulo;
-        this.genero = this.genero;
-        this.idadeMinima = this.idadeMinima;
-        this.valor = this.valor;
-        this.tecnologia = this.tecnologia;
-        this.poltronasDisponiveis = this.poltronasDisponiveis;
+        this.titulo = titulo;
+        this.genero = genero;
+        this.idadeMinima = idadeMinima;
+        this.valor = valor;
+        this.tecnologia = tecnologia;
+        this.poltronasDisponiveis = poltronasDisponiveis;
     }
     //Todo: Métodos Seters
 
