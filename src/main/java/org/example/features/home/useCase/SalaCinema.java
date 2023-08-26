@@ -34,27 +34,27 @@ public class SalaCinema implements Bilheteria {
         System.out.println("Bem vindo ao cadastro de filmes");
         System.out.println("-----------------------------------------------------");
 
-        System.out.print("Digite o id do filme: \n");
+        System.out.print("Digite o id do filme: ");
         int id = scanner.nextInt();
-        System.out.print("Digite o título do filme: \n");
+        System.out.print("Digite o título do filme: ");
         String titulo = scanner.nextLine();
         scanner.nextLine();
-        System.out.print("Digite o gênero do filme: \n");
+        System.out.print("Digite o gênero do filme: ");
         String genero = scanner.nextLine();
 
-        System.out.print("Digite a idade mínima para o filme: \n");
+        System.out.print("Digite a idade mínima para o filme: ");
         int idadeMinima = scanner.nextInt();
 
-        System.out.print("Digite a duração do filme em minutos: \n");
+        System.out.print("Digite a duração do filme em minutos: ");
         int tempo = scanner.nextInt();
 
-        System.out.print("Digite o valor do ingresso: \n");
+        System.out.print("Digite o valor do ingresso: ");
         double valor = scanner.nextDouble();
 
-        System.out.print("Digite a tecnologia do filme: \n");
+        System.out.print("Digite a tecnologia do filme: ");
         String tecnologia = scanner.next();
 
-        System.out.print("Digite o número de poltronas disponíveis: \n");
+        System.out.print("Digite o número de poltronas disponíveis: ");
         int poltronasDisponiveis = scanner.nextInt();
 
         int novoId = filmes.size() + 1;
