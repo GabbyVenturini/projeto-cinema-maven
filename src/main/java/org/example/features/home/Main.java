@@ -1,4 +1,4 @@
-package org.example.features.home.view;
+package org.example.features.home;
 
 import org.example.features.home.useCase.SalaCinema;
 

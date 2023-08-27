@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b577fd-21f2-4e43-9248-70cc47c8e4db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/features/home/entity/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/features/home/entity/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/features/home/useCase/SalaCinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/features/home/useCase/SalaCinema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/features/home/view/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/features/home/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +51,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Merging master",
-    "last_opened_file_path": "C:/Users/Gabby/IdeaProjects/projeto-cinema-maven/src/main/java/org/example/features/home",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Gabby/Desktop/parking-control",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,7 +70,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.example.features.home.view.Main">
+  <component name="RunManager" selected="Application.org.example.features.home.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.features.view.Main" />
       <module name="projeto-cinema-maven" />
@@ -85,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.features.home.view.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.features.home.view.Main" />
+    <configuration name="org.example.features.home.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.features.home.Main" />
       <module name="projeto-cinema-maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.features.home.view.*" />
+          <option name="PATTERN" value="org.example.features.home.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,7 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.example.features.home.view.Main" />
+        <item itemvalue="Application.org.example.features.home.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -118,7 +117,9 @@
       <workItem from="1692997501783" duration="5622000" />
       <workItem from="1693003536872" duration="17000" />
       <workItem from="1693003749772" duration="5386000" />
-      <workItem from="1693066481247" duration="309000" />
+      <workItem from="1693066481247" duration="906000" />
+      <workItem from="1693165001283" duration="47000" />
+      <workItem from="1693169572884" duration="112000" />
     </task>
     <servers />
   </component>
